@@ -1,26 +1,32 @@
 # AWSコース Lecture03 課題
+## サンプルアプリケーションの起動
+[サンプルアプリケーション「Listing fluits」](./cloud9_Listingfruits.png)
 
 1. APサーバーについて調べる。  
     - APサーバーの名前とバージョン  
-    - APサーバー:puma  
-      バージョン:5.6.8  
+      APサーバー:puma  
+      バージョン:5.6.8   
+      [Version](./version.png)
 
     - APサーバー終了後アクセスできるか、また再起動後アクセスできるか。  
       APサーバー終了後、"Oops No application seems to be running here!"  
       と表示されアクセスできなくなった。  
-      再度、"bin/cloud9_dev"でAPサーバーを起動し、アクセスできることを確認した。
-
+      再度、"bin/cloud9_dev"でAPサーバーを起動し、アクセスできることを確認した。  
+      [NoApplication Server](./cloud9_noAP.png)
 
 2. DBサーバーについて調べる。
     - DBサーバーの名前とバージョン  
       DBサーバー:mysql  
-      バージョン:8.0.36
-  
+      バージョン:8.0.36  
+      [Version](./version.png)
     - DBサーバーを終了後アクセスできるか。  
-      DBサーバーを終了すると"ActiveRecord::DatabaseConnectionError"によりアクセスできなくなった。
+      DBサーバーを終了する(Database.yml内のPasswordを空欄にしてDBサーバーにアクセスできないようにした)と、
+      "ActiveRecord::DatabaseConnectionError"によりアクセスできなくなった。  
+      [NoDataBase Server](./cloud9_noDB)  
 
-    - Railsの構成管理ツール  
-      Bundler(ver 2.3.14)
+     - Railsの構成管理ツール  
+      Bundler(ver 2.3.14)  
+      [Version](./version.png)
 
 
 3. 感想  
