@@ -22,7 +22,7 @@
     - DBサーバーを終了後アクセスできるか。  
       DBサーバーを終了する(Database.yml内のPasswordを空欄にしてDBサーバーにアクセスできないようにした)と、
       "ActiveRecord::DatabaseConnectionError"によりアクセスできなくなった。  
-      [NoDataBase Server](./images/cloud9_noDB)  
+      [NoDataBase Server](./images/cloud9_noDB.png)  
 
      - Railsの構成管理ツール  
       Bundler(ver 2.3.14)  
