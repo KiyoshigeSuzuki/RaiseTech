@@ -1,6 +1,6 @@
 # AWSコース Lecture03 課題
 ## サンプルアプリケーションの起動
-[サンプルアプリケーション「Listing fluits」](./images/cloud9_Listingfruits.png)
+[サンプルアプリケーション「Listing fluits」](./RaiseTech/images/cloud9_Listingfruits.png)
 
 1. APサーバーについて調べる。  
     - APサーバーの名前とバージョン  
