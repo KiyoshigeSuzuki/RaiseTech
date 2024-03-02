@@ -6,7 +6,7 @@
   ![EC2 description](/images/EC2-description-1.png)  
   ![EC2 security](/images/RDS-InboundRule.png)
 - RDSの設定  
-  ![RDS settings3](/images/RDS-securityglouo.png)  
+  ![RDS settings3](/images/RDS-securitygloup.png)  
 - Tera Termを使用してEC2・RDSへ接続  
   ![TeraTerm1](/images/EC2-login.png)
   ![TeraTerm2](/images/EC2-RDS-MYSQL.png)
