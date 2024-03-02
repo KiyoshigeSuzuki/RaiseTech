@@ -13,4 +13,3 @@
 - Tera Termを使用してEC2・RDSへ接続  
   ![TeraTerm1](/images/EC2-login.png)
   ![TeraTerm2](/images/EC2-RDS-MYSQL.png)  
-end
