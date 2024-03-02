@@ -10,7 +10,8 @@
 - RDSの設定  
   ![RDS settings](/images/EC2-RDSsettings.png)  
   ↓内容変更後  
-  ![RDS settings2](/images/EC2-RDSoverview.png)  
+  ![RDS settings2](/images/RDSoverview.png)  
+  ![RDS settings3](/images/RDSsettings.png)  
 - Tera Termを使用してEC2・RDSへ接続  
   ![TeraTerm1](/images/EC2-login.png)
   ![TeraTerm2](/images/EC2-RDS-MYSQL.png)
