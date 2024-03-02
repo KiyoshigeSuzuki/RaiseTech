@@ -1,6 +1,7 @@
 # 第4回課題
 - VPC・サブネットの設定  
-  ![VPC settings](/images/RaiseTech-VPC-1.png)
+  ![VPC settings1](/images/RaiseTech-VPC-1.png)
+  ![VPC settings2](/images/RDS-VPC.png)
 
 - EC2インスタンスの設定  
   ![EC2 overview](/images/EC2-overview-1.png)  
